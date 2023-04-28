@@ -1,0 +1,30 @@
+.tic-tac-toe-button {
+    display: inline-block;
+    vertical-align: bottom;
+    position: relative;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+}
+
+.peice-img {
+    width: 80%;
+    height: 80%;
+}
+
+.game-button-div {
+    position: relative;
+    width: 330px;
+    height: 100px;
+    text-align: center;
+}
+
+#game-board {
+    position: relative;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
